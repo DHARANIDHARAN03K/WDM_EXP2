@@ -1,5 +1,5 @@
 ## Ex.No.2A					Association Rules For Buying data set
-## Date:
+## Date:22/5/25
 
 ## Aim:	
            To Find the Association Rules for Buying dataset.
